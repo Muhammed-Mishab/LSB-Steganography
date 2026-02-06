@@ -13,7 +13,7 @@
 
 ## Tools Used
 
-* **C / C++ ** for implementation *(use the one you actually used)*
+* **C** for implementation 
 * **Linux / Linux environment** for development and testing
 ---
 
