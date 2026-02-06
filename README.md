@@ -1,14 +1,7 @@
-# LSB STEGANOGRAPHY FOR SECURE DATA HIDING
-Developed an image-based steganography system using the Least Significant Bit (LSB) technique to hide encrypted text data within RGB images. The system preserves image quality while enabling accurate data extraction, demonstrating secure communication, bit-level manipulation, and low-level data processing.
-
----
 
 # LSB STEGANOGRAPHY FOR SECURE DATA HIDING
 
-## Objective
-
-The objective of this project is to design and implement an **image-based steganography system using the Least Significant Bit (LSB) technique** to securely hide sensitive text data within digital images. The project aims to demonstrate covert communication by embedding encrypted information into RGB image pixels while preserving image quality and ensuring accurate data extraction. This project highlights the importance of data confidentiality and secure information transfer in digital environments.
-
+ Developed an **image-based steganography system using the Least Significant Bit (LSB) technique** to hide encrypted text data within RGB images. The system preserves image quality while enabling accurate data extraction, demonstrating secure communication, bit-level manipulation, and low-level data processing.
 ---
 
 ## Skills Learned
